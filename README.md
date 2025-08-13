@@ -1,6 +1,6 @@
 # 16.29-Diseno-de-farmacos
 Miembros del grupo:
-- Arroyo Tomás
+- Arroyo Tomás - 62237
 - Ballester Villafañe Rosario
 - Barca Francisco
 - Erbin Lola
