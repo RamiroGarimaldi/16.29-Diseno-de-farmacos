@@ -4,5 +4,5 @@ Miembros del grupo:
 - Ballester Villafañe Rosario
 - Barca Francisco
 - Erbin Lola
-- Garimaldi Ramiro
+- Garimaldi Ramiro - 62156
 - Silveri Carolina Denise
