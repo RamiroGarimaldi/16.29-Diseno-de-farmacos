@@ -11,3 +11,4 @@ Se diagnostica un síndrome de pseudo-hiperaldosteronismo inducido por glicirric
     
     c. Describa el mecanismo de acción de la espironolactona y por qué es útil en este contexto clínico.
 
+**Respuestas**
