@@ -41,7 +41,8 @@ Se diagnostica un síndrome de pseudo-hiperaldosteronismo inducido por glicirric
     la pérdida de potasio a través del bloqueo de un receptor.
 
 
-    c. En este contexto clínico, por el aumento de concentración del cortisol en el túbulo distal, hay una mayor activación de los RMC, y por lo tanto, una mayor       excreción potasio como fue descrito. La espironolactona, se une a los RMC bloqueándolos, para evitar su activación por cortisol o aldosterona. El efecto de esta
+    c. En este contexto clínico, por el aumento de concentración del cortisol en el túbulo distal, hay una mayor activación de los RMC, y por lo tanto, una mayor
+    excreción potasio como fue descrito. La espironolactona, se une a los RMC bloqueándolos, para evitar su activación por cortisol o aldosterona. El efecto de esta
     droga reduce la activación de los RMC, y en consecuencia, la expresión de los canales epiteliales de sodio, revirtiendo los efectos.  
 
 **Bibliografía**
