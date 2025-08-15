@@ -13,7 +13,7 @@ Se diagnostica un síndrome de pseudo-hiperaldosteronismo inducido por glicirric
 
 **Respuestas**
 
-    a. La enzima 11β-hydroxysteroid dehydrogenase type 2 (11βDSH-2) se encuentra en diferentes tejidos que expresan receptores de mineralocorticoides (MR) como el
+    a. La enzima 11β-hydroxysteroid dehydrogenase type 2 (11βDSH-2) se encuentra en diferentes tejidos que expresan receptores de mineralocorticoides (RMC) como el
     nefrón distal, las glándulas salivales, la piel y ciertas regiones específicas del cerebro. 
     Altas concentraciones de glicirricina, presente en el regaliz, inhiben la enzima 11β-hidroxiesteroide deshidrogenasa tipo 2 (11β-HSD2), la cual normalmente  
     convierte el cortisol en el metabolito inactivo cortisona. Esta conversión evita que el cortisol active los receptores de mineralocorticoides, reservando esa
@@ -23,3 +23,17 @@ Se diagnostica un síndrome de pseudo-hiperaldosteronismo inducido por glicirric
     excreción de potasio en la orina.
     La pérdida excesiva de potasio genera hipokalemia, lo que altera la repolarización cardíaca y se traduce en la prolongación del intervalo QT, aumentando el
     riesgo de arritmias.
+
+    b. Como se explicó en el punto anterior, la glicirrina inhibe la enzima 11β-HSD2, lo que provoca un aumento de la concentración de cortisol en el túbulo
+    distal, y por ende la activación de los RMC. Por el otro lado tenemos a la espironolactona. Este es un fármaco que se utiliza hace más de 50 años como
+    diurético [4]. Este es un antagonista competitivo de los RMC, y al unirse al mismo lo bloquea para impedir que la aldosterona u otros mineralocorticoides
+    ejerzan su efecto [4]. Como resultado, promueve la excreción urinaria de agua y sodio, al mismo tiempo que disminuye la pérdida de potasio, por lo que se
+    clasifica como un diurético ahorrador de potasio.
+
+    Por lo tanto, la espironolactona y la glicirricina son antagonistas funcionales ya que actúan en diferentes puntos de la vía para producir efectos opuestos.
+    Aunque la glicirricina aumenta la actividad del RMC de manera indirecta, y la espironolactona la disminuye directamente, no compiten por el mismo sitio de
+    acción (no son antagonistas competitivos). Cada uno actúa a través de un mecanismo diferente para producir efectos fisiológicos opuestos. La glicirricina
+    activa la retención de sodio y la pérdida de potasio a través de la inhibición de una enzima, mientras que la espironolactona bloquea la retención de sodio y
+    la pérdida de potasio a través del bloqueo de un receptor.
+
+ 
