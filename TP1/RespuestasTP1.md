@@ -13,10 +13,10 @@ Se diagnostica un síndrome de pseudo-hiperaldosteronismo inducido por glicirric
 
 **Respuestas**
 
-a. La enzima 11β-hydroxysteroid dehydrogenase type 2 (11βDSH-2) se encuentra en diferentes tejidos que expresan receptores de mineralocorticoides (MR) como el nefrón distal, las glándulas salivales, la piel y ciertas regiones específicas del cerebro. 
+    a. La enzima 11β-hydroxysteroid dehydrogenase type 2 (11βDSH-2) se encuentra en diferentes tejidos que expresan receptores de mineralocorticoides (MR) como el      nefrón distal, las glándulas salivales, la piel y ciertas regiones específicas del cerebro. 
 
-Altas concentraciones de glicirricina, presente en el regaliz, inhiben la enzima 11β-hidroxiesteroide deshidrogenasa tipo 2 (11β-HSD2), la cual normalmente convierte el cortisol en el metabolito inactivo cortisona. Esta conversión evita que el cortisol active los receptores de mineralocorticoides, reservando esa función para la aldosterona.
+    Altas concentraciones de glicirricina, presente en el regaliz, inhiben la enzima 11β-hidroxiesteroide deshidrogenasa tipo 2 (11β-HSD2), la cual normalmente         convierte el cortisol en el metabolito inactivo cortisona. Esta conversión evita que el cortisol active los receptores de mineralocorticoides, reservando esa       función para la aldosterona.
 
-Cuando la 11β-HSD2 es inhibida, el cortisol no se inactiva y, debido a su alta afinidad por los receptores de mineralocorticoides, los activa de forma sostenida. Esto aumenta la expresión de los canales epiteliales de sodio (ENaC) en el túbulo distal, provocando retención de sodio y agua, junto con una mayor excreción de potasio en la orina.
+    Cuando la 11β-HSD2 es inhibida, el cortisol no se inactiva y, debido a su alta afinidad por los receptores de mineralocorticoides, los activa de forma              sostenida. Esto aumenta la expresión de los canales epiteliales de sodio (ENaC) en el túbulo distal, provocando retención de sodio y agua, junto con una mayor      excreción de potasio en la orina.
 
-La pérdida excesiva de potasio genera hipokalemia, lo que altera la repolarización cardíaca y se traduce en la prolongación del intervalo QT, aumentando el riesgo de arritmias.
+    La pérdida excesiva de potasio genera hipokalemia, lo que altera la repolarización cardíaca y se traduce en la prolongación del intervalo QT, aumentando el         riesgo de arritmias.
