@@ -14,20 +14,24 @@ Se diagnostica un síndrome de pseudo-hiperaldosteronismo inducido por glicirric
 **Respuestas**
 
     a. La enzima 11β-hydroxysteroid dehydrogenase type 2 (11βDSH-2) se encuentra en diferentes tejidos que expresan receptores de mineralocorticoides (RMC) como el
-    nefrón distal, las glándulas salivales, la piel y ciertas regiones específicas del cerebro. 
+    nefrón distal, las glándulas salivales, la piel y ciertas regiones específicas del cerebro.
+    
     Altas concentraciones de glicirricina, presente en el regaliz, inhiben la enzima 11β-hidroxiesteroide deshidrogenasa tipo 2 (11β-HSD2), la cual normalmente  
     convierte el cortisol en el metabolito inactivo cortisona. Esta conversión evita que el cortisol active los receptores de mineralocorticoides, reservando esa
     función para la aldosterona.
+    
     Cuando la 11β-HSD2 es inhibida, el cortisol no se inactiva y, debido a su alta afinidad por los receptores de mineralocorticoides, los activa de forma     
     sostenida. Esto aumenta la expresión de los canales epiteliales de sodio (ENaC) en el túbulo distal, provocando retención de sodio y agua, junto con una mayor
     excreción de potasio en la orina.
+    
     La pérdida excesiva de potasio genera hipokalemia, lo que altera la repolarización cardíaca y se traduce en la prolongación del intervalo QT, aumentando el
     riesgo de arritmias.
 
-    b. Como se explicó en el punto anterior, la glicirrina inhibe la enzima 11β-HSD2, lo que provoca un aumento de la concentración de cortisol en el túbulo
+
+    b. Como se explicó en el punto anterior, la glicirricina inhibe la enzima 11β-HSD2, lo que provoca un aumento de la concentración de cortisol en el túbulo
     distal, y por ende la activación de los RMC. Por el otro lado tenemos a la espironolactona. Este es un fármaco que se utiliza hace más de 50 años como
-    diurético [4]. Este es un antagonista competitivo de los RMC, y al unirse al mismo lo bloquea para impedir que la aldosterona u otros mineralocorticoides
-    ejerzan su efecto [4]. Como resultado, promueve la excreción urinaria de agua y sodio, al mismo tiempo que disminuye la pérdida de potasio, por lo que se
+    diurético. Este es un antagonista competitivo de los RMC, y al unirse al mismo lo bloquea para impedir que la aldosterona u otros mineralocorticoides
+    ejerzan su efecto. Como resultado, promueve la excreción urinaria de agua y sodio, al mismo tiempo que disminuye la pérdida de potasio, por lo que se
     clasifica como un diurético ahorrador de potasio.
 
     Por lo tanto, la espironolactona y la glicirricina son antagonistas funcionales ya que actúan en diferentes puntos de la vía para producir efectos opuestos.
@@ -37,7 +41,11 @@ Se diagnostica un síndrome de pseudo-hiperaldosteronismo inducido por glicirric
     la pérdida de potasio a través del bloqueo de un receptor.
 
 
+    c. En este contexto clínico, por el aumento de concentración del cortisol en el túbulo distal, hay una mayor activación de los RMC, y por lo tanto, una mayor       excreción potasio como fue descrito. La espironolactona, se une a los RMC bloqueándolos, para evitar su activación por cortisol o aldosterona. El efecto de esta
+    droga reduce la activación de los RMC, y en consecuencia, la expresión de los canales epiteliales de sodio, revirtiendo los efectos.  
+
 **Bibliografía**
+
 [1] Szendrey, J., Poindexter, A., y Braden, G. (2024). Glycyrrhizic acid induced acquired apparent mineralocorticoid excess syndrome with a hyperadrenergic state: A case report. Journal of Medical Case Reports, 18(358). https://doi.org/10.1186/s13256-024-04674-1
 
 [2] Kwon, Y. E., Oh, D.-J., y Choi, H. M. (2020). Severe asymptomatic hypokalemia associated with prolonged licorice ingestion: A case report. Medicine, 99(30), e21094. https://doi.org/10.1097/md.0000000000021094
