@@ -56,4 +56,8 @@ Se diagnostica un síndrome de pseudo-hiperaldosteronismo inducido por glicirric
 [4]  Gómez, R. M. y Marín, M. (2015). Bloqueantes de la aldosterona. En T. R. Ruiz (Ed.), Manual de Nefrología. Editorial Panamericana. https://www.saha.org.ar/uploads/pdf/Cap.112.pdf 
 
 [5] Layton AM, Eady EA, Whitehouse H, Del Rosso JQ, Fedorowicz Z, van Zuuren EJ. Oral Spironolactone for Acne Vulgaris in Adult Females: A Hybrid Systematic Review. Am J Clin Dermatol. 2017 Apr;18(2):169-191. [PMC free article] [PubMed]
+
+Presentación 
+https://docs.google.com/presentation/d/1YNwmI8j0aoem7PckUWQDacn1XTfyTbcTeQP2TYkv5HY/edit?usp=sharing
+
  
