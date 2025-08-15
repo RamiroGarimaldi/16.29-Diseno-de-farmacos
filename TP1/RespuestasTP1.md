@@ -36,4 +36,15 @@ Se diagnostica un síndrome de pseudo-hiperaldosteronismo inducido por glicirric
     activa la retención de sodio y la pérdida de potasio a través de la inhibición de una enzima, mientras que la espironolactona bloquea la retención de sodio y
     la pérdida de potasio a través del bloqueo de un receptor.
 
+
+**Bibliografía**
+[1] Szendrey, J., Poindexter, A., y Braden, G. (2024). Glycyrrhizic acid induced acquired apparent mineralocorticoid excess syndrome with a hyperadrenergic state: A case report. Journal of Medical Case Reports, 18(358). https://doi.org/10.1186/s13256-024-04674-1
+
+[2] Kwon, Y. E., Oh, D.-J., y Choi, H. M. (2020). Severe asymptomatic hypokalemia associated with prolonged licorice ingestion: A case report. Medicine, 99(30), e21094. https://doi.org/10.1097/md.0000000000021094
+
+[3] Smedegaard, S. B. y Svart, M. V. (2019). Licorice induced pseudohyperaldosteronism, severe hypertension, and long QT. Endocrinology, Diabetes & Metabolism Case Reports. https://doi.org/10.1530/edm-19-0109
+
+[4]  Gómez, R. M. y Marín, M. (2015). Bloqueantes de la aldosterona. En T. R. Ruiz (Ed.), Manual de Nefrología. Editorial Panamericana. https://www.saha.org.ar/uploads/pdf/Cap.112.pdf 
+
+[5] Layton AM, Eady EA, Whitehouse H, Del Rosso JQ, Fedorowicz Z, van Zuuren EJ. Oral Spironolactone for Acne Vulgaris in Adult Females: A Hybrid Systematic Review. Am J Clin Dermatol. 2017 Apr;18(2):169-191. [PMC free article] [PubMed]
  
