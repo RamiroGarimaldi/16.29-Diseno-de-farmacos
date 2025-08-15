@@ -5,4 +5,4 @@ Miembros del grupo:
 - Barca Francisco José - 62683
 - Erbin Lola - 62417
 - Garimaldi Ramiro - 62156
-- Silveri Carolina Denise
+- Silveri Carolina Denise - 61203
