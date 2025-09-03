@@ -18,3 +18,10 @@ Producto Natural: Ácido Glicirrícico, C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@
 Droga experimental: N,N-Dipropiltriptamina, CCCN(CCC)CCC1=CNC2=CC=CC=C21
 
 2.
+**Caffeine**:
+Peso molecular: 194.19g/mol
+LogP (índice de lipofilicidad): 0.08
+H-bond acceptors: 3
+H-bond donors: 0 
+TPSA (Superficie polar): 61.82 Å²
+Rotatable bonds: 0
