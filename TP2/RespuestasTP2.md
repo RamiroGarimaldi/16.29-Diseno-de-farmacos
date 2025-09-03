@@ -45,3 +45,18 @@ d. H-bond donors: 1
 e. TPSA (Superficie polar): 63.60 Å²
 
 f. Rotatable bonds: 3
+
+
+**Paracetamol**:
+
+a. Peso molecular: 	155.19 g/mol
+
+b. LogP (índice de lipofilicidad): 0.93
+
+c. H-bond acceptors: 2
+
+d. H-bond donors: 2
+
+e. TPSA (Superficie polar): 49.33 Å²
+
+f. Rotatable bonds: 2
