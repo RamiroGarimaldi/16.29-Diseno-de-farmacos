@@ -19,9 +19,29 @@ Droga experimental: N,N-Dipropiltriptamina, CCCN(CCC)CCC1=CNC2=CC=CC=C21
 
 2.
 **Caffeine**:
+  
 Peso molecular: 194.19g/mol
+
 LogP (índice de lipofilicidad): 0.08
+
 H-bond acceptors: 3
+
 H-bond donors: 0 
+
 TPSA (Superficie polar): 61.82 Å²
+
 Rotatable bonds: 0
+
+**Aspirin**:
+
+a. Peso molecular: 180.16 g/mol
+
+b. LogP (índice de lipofilicidad): 1.28
+
+c. H-bond acceptors: 4
+
+d. H-bond donors: 1
+
+e. TPSA (Superficie polar): 63.60 Å²
+
+f. Rotatable bonds: 3
