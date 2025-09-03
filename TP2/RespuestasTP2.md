@@ -8,7 +8,7 @@ Caffeine: CN1C=NC2=C1C(=O)N(C(=O)N2C)C
 
 
 b. 
-Fármaco Conocido 1: Salicilato de Amilo (Átomo Desinflamante), CCCN(CCC)CCC1=CNC2=CC=CC=C21
+Fármaco Conocido 1: Salicilato de Amilo (Átomo Desinflamante), CCCN(CCC)CCC1=CNC2=CC=CC=C21 \
 Fármaco Conocido 2: Dimenhidrinato (Dramamine), CN1C2=C(C(=O)N(C1=O)C)NC(=N2)Cl.CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2
 
 Fármaco Conocido 3: Isotretinoína (Roaccutan), CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C\C(=O)O)/C)/C 
