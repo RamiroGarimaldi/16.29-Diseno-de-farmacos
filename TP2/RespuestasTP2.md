@@ -18,8 +18,8 @@
 
 **Fármaco Conocido 3**: Isotretinoína (Roaccutan), CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C\C(=O)O)/C)/C 
 
-**Producto Natural**: Ácido Glicirrícico,
-C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O
+**Producto Natural**: Ácido Glicirrícico,```text
+C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O```
 
 **Droga experimental**: N,N-Dipropiltriptamina, CCCN(CCC)CCC1=CNC2=CC=CC=C21 
 
@@ -28,18 +28,24 @@ C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)
 |    Fármaco     | Peso molecular (g/mol) | LogP | H-bond acceptors | H-bond donors | TPSA (Å²) | Rotatable bonds |
 |----------------|------------------------|------|------------------|---------------|-----------|-----------------|
 | **Caffeine**   |        194.19          | 0.08 |        3         |      0        |   61.82   |        0        |
-| **Aspirina**   |        180.16          | 1.28 |        4         |      1        |   63.60   |        3        |
+| **Aspirin**   |        180.16          | 1.28 |        4         |      1        |   63.60   |        3        |
 | **Paracetamol**|        155.19          | 0.93 |        2         |      2        |   49.33   |        2        |
 
 
 
-3. Subestructuras indeseables (Lipinski violations)
+ ## 3. Identificar subestructuras indeseables de los compuestos del punto 1.a y 1.b usando la siguiente módulo de python creado para tal fin siguiendo el tutorial:
+
+Tomamos el parámetro _Lipinski_Violations_ como identificador de subestructuras indeseadbles. A continuación se presenta la cantidad por compuesto:
 
 **Caffeine** = 0
+
 **Aspirin** = 0
+
 **Paracetamol** = 0
 
-4. Predicción de la toxicidad
-**Caffeine**
-**Aspirin**
-**Paracetamol**
+## 4. Realizar la predicción de toxicidad in silico utilizando ProTox-II (https://tox-new.charite.de/protox_II/). Utilizando los SMILES de moléculas del punto 1.a y 1.b, obtener a y b. ¿Cuál de las moléculas seleccionadas muestra menor toxicidad según ProTox-II?:
+
+### a. Predicted LD50 (mg/kg) y clase de toxicidad (I–VI).
+### b. Riesgo de hepatotoxicidad, mutagenicidad, carcinogenicidad.
+
+## 5. Construir una ficha técnica de cada compuesto que considere las respuestas a las siguientes preguntas: ¿Qué compuestos cumplen mejor con los filtros de Lipinski y Veber? ¿Aparecieron moléculas con alertas PAINS? ¿Cuál es su toxicidad?
