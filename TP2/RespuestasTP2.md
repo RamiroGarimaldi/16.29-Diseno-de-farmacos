@@ -18,7 +18,7 @@
 
 **Fármaco Conocido 3**: Isotretinoína (Roaccutan), CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C\C(=O)O)/C)/C 
 
-**Producto Natural**: Ácido Glicirrícico,```text
+**Producto Natural**: Ácido Glicirrícico,```
 C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O```
 
 **Droga experimental**: N,N-Dipropiltriptamina, CCCN(CCC)CCC1=CNC2=CC=CC=C21 
@@ -31,6 +31,7 @@ C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)
 | **Aspirin**   |        180.16          | 1.28 |        4         |      1        |   63.60   |        3        |
 | **Paracetamol**|        155.19          | 0.93 |        2         |      2        |   49.33   |        2        |
 
+En LogP consideramos el valor de _consensus LogP_.
 
 
  ## 3. Identificar subestructuras indeseables de los compuestos del punto 1.a y 1.b usando la siguiente módulo de python creado para tal fin siguiendo el tutorial:
