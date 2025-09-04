@@ -47,6 +47,14 @@ Tomamos el parámetro _Lipinski_Violations_ como identificador de subestructuras
 ## 4. Realizar la predicción de toxicidad in silico utilizando ProTox-II (https://tox-new.charite.de/protox_II/). Utilizando los SMILES de moléculas del punto 1.a y 1.b, obtener a y b. ¿Cuál de las moléculas seleccionadas muestra menor toxicidad según ProTox-II?:
 
 ### a. Predicted LD50 (mg/kg) y clase de toxicidad (I–VI).
+
 ### b. Riesgo de hepatotoxicidad, mutagenicidad, carcinogenicidad.
+| Fármaco      | LD50 Predicho (mg/kg) | Clase de toxicidad (I-VI) | Riesgo de hepatotoxicidad | Riesgo de mutagenicidad | Riesgo de carcinogenicidad |
+|--------------|------------------------|---------------------------|---------------------------|--------------------------|-----------------------------|
+| Salicilato de Amilo    | 96                    | III                       | Inactivo (0.94)                      | Inactivo (0.69)                     | Inactivo (0.53)                       |
+| Dimenhidrinato    | 300                   | III                        | Inactivo (0.89)                     | Inactivo (0.69)                     | Inactivo (0.59)                        |
+| Isotretinoína    | 1100                     | IV                        | Activo (0.76)                     | Inactivo (0.82)                     | Inactivo (0.82)                       |
+| Ácido Glicirrícico    | 1750                    | IV                        | Inactivo (0.88)                      | Inactivo (0.61)                    | Inactivo (0.96)                        |
+| N,N-Dipropiltriptamina    | 96                     | III                        | Inactivo (0.94)                      | Inactivo (0.69)                     | Inactivo (0.53)                       |
 
 ## 5. Construir una ficha técnica de cada compuesto que considere las respuestas a las siguientes preguntas: ¿Qué compuestos cumplen mejor con los filtros de Lipinski y Veber? ¿Aparecieron moléculas con alertas PAINS? ¿Cuál es su toxicidad?
