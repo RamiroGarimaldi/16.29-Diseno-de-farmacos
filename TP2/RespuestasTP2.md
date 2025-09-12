@@ -12,7 +12,7 @@
 
 ### b. Seleccionar 3 fármacos conocidos y 2 experimentales utilizando las palabras clave: anticancer candidate, natural product, experimental drug.
 
-**Fármaco Conocido 1**: Salicilato de Amilo (Átomo Desinflamante), CCCN(CCC)CCC1=CNC2=CC=CC=C21 
+**Fármaco Conocido 1**: Salicilato de Amilo (Átomo Desinflamante), CCCCCOC(=O)C1=CC=CC=C1O  
 
 **Fármaco Conocido 2**: Dimenhidrinato (Dramamine), CN1C2=C(C(=O)N(C1=O)C)NC(=N2)Cl.CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2 
 
@@ -44,6 +44,17 @@ Tomamos el parámetro _Lipinski_Violations_ como identificador de subestructuras
 
 **Paracetamol** = 0
 
+**Dimenhidrinato (Dramamine)** = 0
+
+**Salicilato de Amilo (Átomo Desinflamante)** = 0
+
+**Isotretinoína (Roaccutan)** = 1
+
+**Ácido Glicirrícico** = 3
+
+**N,N-Dipropiltriptamina** = 0
+
+
 ## 4. Realizar la predicción de toxicidad in silico utilizando ProTox-II (https://tox-new.charite.de/protox_II/). Utilizando los SMILES de moléculas del punto 1.a y 1.b, obtener a y b. ¿Cuál de las moléculas seleccionadas muestra menor toxicidad según ProTox-II?:
 
 ### a. Predicted LD50 (mg/kg) y clase de toxicidad (I–VI).
@@ -51,10 +62,13 @@ Tomamos el parámetro _Lipinski_Violations_ como identificador de subestructuras
 ### b. Riesgo de hepatotoxicidad, mutagenicidad, carcinogenicidad.
 | Fármaco      | LD50 Predicho (mg/kg) | Clase de toxicidad (I-VI) | Riesgo de hepatotoxicidad | Riesgo de mutagenicidad | Riesgo de carcinogenicidad |
 |--------------|------------------------|---------------------------|---------------------------|--------------------------|-----------------------------|
-| Salicilato de Amilo    | 96                    | III                       | Inactivo (0.94)                      | Inactivo (0.69)                     | Inactivo (0.53)                       |
-| Dimenhidrinato    | 300                   | III                        | Inactivo (0.89)                     | Inactivo (0.69)                     | Inactivo (0.59)                        |
-| Isotretinoína    | 1100                     | IV                        | Activo (0.76)                     | Inactivo (0.82)                     | Inactivo (0.82)                       |
-| Ácido Glicirrícico    | 1750                    | IV                        | Inactivo (0.88)                      | Inactivo (0.61)                    | Inactivo (0.96)                        |
-| N,N-Dipropiltriptamina    | 96                     | III                        | Inactivo (0.94)                      | Inactivo (0.69)                     | Inactivo (0.53)                       |
+|Caffeine|127|III|Inactivo (0.97)|Inactivo (0.94)|Inactivo (0.93)|
+|Aspirin|250|III|Inactivo (0.51)|Inactivo (0.97)|Inactivo (0.86)|
+|Paracetamol|338|IV|Activo (0.74)|Inactivo (0.90)|Inactivo (0.51)|
+|Salicilato de Amilo|4100|V|Inactivo (0.66)|Inactivo (0.91)|Inactivo (0.83)|
+|Dimenhidrinato|300|III|Inactivo (0.80)|Inactivo (0.59)|Inactivo (0.69)|
+|Isotretinoína|1100|IV|Activo (0.76)|Inactivo (0.82)|Inactivo (0.82)|
+|Ácido Glicirrícico|1750|IV|Inactivo (0.88)|Inactivo (0.96)|Inactivo (0.961|
+|N,N-Dipropiltriptamina|96|III|Inactivo (0.94)|Inactivo (0.53)|Inactivo (0.69)|
 
 ## 5. Construir una ficha técnica de cada compuesto que considere las respuestas a las siguientes preguntas: ¿Qué compuestos cumplen mejor con los filtros de Lipinski y Veber? ¿Aparecieron moléculas con alertas PAINS? ¿Cuál es su toxicidad?
