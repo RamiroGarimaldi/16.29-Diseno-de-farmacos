@@ -25,7 +25,7 @@ C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)
 
 ## 2. Realizar la predicción de propiedades fisicoquímicas de las moléulas obtenidas en el punto 1.a, mediante el uso de la herramienta SwissADME (http://www.swissadme.ch). Utilizando los SMILES obtenidos en el punto anterior, obtener de ambos fármacos:
 
-|    Fármaco     | Peso molecular (g/mol) | LogP | H-bond acceptors | H-bond donors | TPSA (Å²) | Rotatable bonds |
+|    Compuesto     | Peso molecular (g/mol) | LogP | H-bond acceptors | H-bond donors | TPSA (Å²) | Rotatable bonds |
 |----------------|------------------------|------|------------------|---------------|-----------|-----------------|
 | **Caffeine**   |        194.19          | 0.08 |        3         |      0        |   61.82   |        0        |
 | **Aspirin**   |        180.16          | 1.28 |        4         |      1        |   63.60   |        3        |
@@ -60,7 +60,7 @@ Tomamos el parámetro _Lipinski_Violations_ como identificador de subestructuras
 ### a. Predicted LD50 (mg/kg) y clase de toxicidad (I–VI).
 
 ### b. Riesgo de hepatotoxicidad, mutagenicidad, carcinogenicidad.
-| Fármaco      | LD50 Predicho (mg/kg) | Clase de toxicidad (I-VI) | Riesgo de hepatotoxicidad | Riesgo de mutagenicidad | Riesgo de carcinogenicidad |
+| Compuesto      | LD50 Predicho (mg/kg) | Clase de toxicidad (I-VI) | Riesgo de hepatotoxicidad | Riesgo de mutagenicidad | Riesgo de carcinogenicidad |
 |--------------|------------------------|---------------------------|---------------------------|--------------------------|-----------------------------|
 |Caffeine|127|III|Inactivo (0.97)|Inactivo (0.94)|Inactivo (0.93)|
 |Aspirin|250|III|Inactivo (0.51)|Inactivo (0.97)|Inactivo (0.86)|
@@ -68,7 +68,24 @@ Tomamos el parámetro _Lipinski_Violations_ como identificador de subestructuras
 |Salicilato de Amilo|4100|V|Inactivo (0.66)|Inactivo (0.91)|Inactivo (0.83)|
 |Dimenhidrinato|300|III|Inactivo (0.80)|Inactivo (0.59)|Inactivo (0.69)|
 |Isotretinoína|1100|IV|Activo (0.76)|Inactivo (0.82)|Inactivo (0.82)|
-|Ácido Glicirrícico|1750|IV|Inactivo (0.88)|Inactivo (0.96)|Inactivo (0.961|
+|Ácido Glicirrícico|1750|IV|Inactivo (0.88)|Inactivo (0.96)|Inactivo (0.96)|
 |N,N-Dipropiltriptamina|96|III|Inactivo (0.94)|Inactivo (0.53)|Inactivo (0.69)|
 
+De las moléculas seleccionadas, la que presenta menor toxicidad según ProTox-II es el **Salicilato de Amilo** (átomo desinflamante), a que preseta un LD50 alto (4100 mg/kg) y por lo tanto una clase de toxicidad de valor alto (V), indicando una que se deben ingerir grandes cantidades del mismo para que sea nocivo a la salud. Además, para los riesgos de hepatoxicidad, mutagenicidad y carcinogenicidad es inactivo.
+
 ## 5. Construir una ficha técnica de cada compuesto que considere las respuestas a las siguientes preguntas: ¿Qué compuestos cumplen mejor con los filtros de Lipinski y Veber? ¿Aparecieron moléculas con alertas PAINS? ¿Cuál es su toxicidad?
+
+|Compuesto| Violaciones Lipinski | Cumplimiento Lipinski | Cumplimiento Veber | Alertas PAINS | Toxicidad|
+|--------------|------------------------|---------------------------|---------------------------|--------------------------|-----------------------------|
+|Caffeine|0|Cumple|Cumple|0|Baja|
+|Aspirin|0|Cumple|Cumple|0|Baja|
+|Paracetamol|0|Cumple|Cumple|0|Baja|
+|Salicilato de Amilo|0|Cumple|Cumple|0|Baja|
+|Dimenhidrinato|0|Cumple|Cumple|0|Baja|
+|Isotretinoína|1|Cumple|Cumple|0|Baja|
+|Ácido Glicirrícico|3|No Cumple|No Cumple|0|Baja|
+|N,N-Dipropiltriptamina|0|Cumple|Cumple|0|Baja|
+
+En esta tabla se resume la ficha técnica de cada compuesto, que puede observarse al ejecutar el archivo TP2.py. 
+
+A excepción de Isotretinoína y Ácido Glicirrícico, todos cumplen con los filtros de Lipinski y Veber. En cuanto a la toxicidad, la función predice un LD50 > 5000mg/kg para todos los compuestos, por eso la toxicidad es baja en todos los casos.
