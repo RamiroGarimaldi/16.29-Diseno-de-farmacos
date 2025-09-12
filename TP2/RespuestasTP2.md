@@ -71,7 +71,7 @@ Tomamos el parámetro _Lipinski_Violations_ como identificador de subestructuras
 |Ácido Glicirrícico|1750|IV|Inactivo (0.88)|Inactivo (0.96)|Inactivo (0.96)|
 |N,N-Dipropiltriptamina|96|III|Inactivo (0.94)|Inactivo (0.53)|Inactivo (0.69)|
 
-De las moléculas seleccionadas, la que presenta menor toxicidad según ProTox-II es el **Salicilato de Amilo** (átomo desinflamante), a que preseta un LD50 alto (4100 mg/kg) y por lo tanto una clase de toxicidad de valor alto (V), indicando una que se deben ingerir grandes cantidades del mismo para que sea nocivo a la salud. Además, para los riesgos de hepatoxicidad, mutagenicidad y carcinogenicidad es inactivo.
+De las moléculas seleccionadas, la que presenta menor toxicidad según ProTox-II es el **Salicilato de Amilo** (átomo desinflamante), ya que presenta un LD50 alto (4100 mg/kg) y por lo tanto una clase de toxicidad de valor alto (V), indicando una que se deben ingerir grandes cantidades del mismo para que sea nocivo a la salud. Además, para los riesgos de hepatoxicidad, mutagenicidad y carcinogenicidad es inactivo.
 
 ## 5. Construir una ficha técnica de cada compuesto que considere las respuestas a las siguientes preguntas: ¿Qué compuestos cumplen mejor con los filtros de Lipinski y Veber? ¿Aparecieron moléculas con alertas PAINS? ¿Cuál es su toxicidad?
 
