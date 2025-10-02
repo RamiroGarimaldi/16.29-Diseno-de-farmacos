@@ -60,3 +60,15 @@ print(admet)
 #   (ii) Lipofilicidad moderada (LogP = 2,7359), TPSA baja (TPSA = 20,23), solubilidad acuosa baja.
 #   (Para la solubilidad acuosa, lipofilicidad debería ser baja, y TPSA alta)
 #   (iii) Si (Absorption = High), al tener una solubilidad acuosa baja, tendrá mayor capacidad de atravesar membranas.
+
+#Ejercicio 5 - Preguntas teóricas
+
+#a) La ventaja del enfoque basado en el ligando, es que no es necesario conocer la estructura tridimensional de la proteína blanco. Además,
+#   es un proceso más rápido y barato, ya que el modelado de los ligandos es más sencillo que el de las proteínas. Se puede hacer uso de datos
+#   experimentales existentes de compuestos activos.
+
+#b) Depende de la información existente sobre los compuestos activos. Se necesita un conjunto confiable y diverso de ligandos, para poder contruir
+#   buenos modelos, o poder identificar las interacciones específicas con la proteína.
+
+#c) Al ser un ensayo costoso que no se lo podemos realizar a cualquiera, eligiría probar las que tengan mayor probabilidad de éxito, las de mayor
+#   actividad inhibidora como CMP-3 y CMP-5.
