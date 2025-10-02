@@ -1,7 +1,7 @@
 #Ejercicio 1
 
 import pandas as pd
-from admet_module import get_scaffolds 
+from admet_module import get_scaffolds, calculate_properties, run_admet_predictions 
 
 moleculas = {
     "CMP-1": "CC(CCCCC)C(O)CCCC(=O)O",
@@ -49,3 +49,14 @@ print(df_scaffolds)
 
 
 #Ejercicio 4 - Propiedades de CMP-7  
+CMP7 = {"CMP7": "CC(C)C(O)CCCC(F)(F)F"}
+print("=== PROPIEDADES CMP-7 ===")
+props = calculate_properties(CMP7)
+print(props)
+admet = run_admet_predictions(CMP7)
+print(admet)
+
+#b) (i) Cumple la regla de Lipinski (0 Lipinski Violations)
+#   (ii) Lipofilicidad moderada (LogP = 2,7359), TPSA baja (TPSA = 20,23), solubilidad acuosa baja.
+#   (Para la solubilidad acuosa, lipofilicidad debería ser baja, y TPSA alta)
+#   (iii) Si (Absorption = High), al tener una solubilidad acuosa baja, tendrá mayor capacidad de atravesar membranas.
